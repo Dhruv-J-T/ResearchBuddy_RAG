@@ -28,15 +28,15 @@ The aim of this project is to build a chatbot that can help users with specific 
 
 **3. Install Required Packages in Colab**
 
-!pip install langchain
-!pip install -U langchain-community
-!pip install --prefer-binary pathway
-!pip install sentence_transformers
-!pip install huggingface-hub
-!pip install pypdf
-!pip -q install accelerate
-!pip install llama-cpp-python
-!pip -q install git+https://github.com/huggingface/transformers
+    !pip install langchain
+    !pip install -U langchain-community
+    !pip install --prefer-binary pathway
+    !pip install sentence_transformers
+    !pip install huggingface-hub
+    !pip install pypdf
+    !pip -q install accelerate
+    !pip install llama-cpp-python
+    !pip -q install git+https://github.com/huggingface/transformers
 
 **4. Load Documents and Create Vector Store**
     
