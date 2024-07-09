@@ -56,6 +56,7 @@ The aim of this project is to build a chatbot that can help users with specific 
     splitter = CharacterTextSplitter()
 
 **5.Initialize Pathway Vector Client**
+
     from langchain_community.vectorstores import PathwayVectorClient
     client = PathwayVectorClient(url="https://demo-document-indexing.pathway.stream")
 
