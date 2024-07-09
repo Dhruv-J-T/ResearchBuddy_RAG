@@ -1,6 +1,6 @@
 # ResearchBuddy: Private RAG with Mistral 7B
 This repository demonstrates a Retrieval-Augmented Generation (RAG) system using Langchain, Pathway, and the Mistral 7B Instruct model for efficient querying of documents stored in a vector database. The system is set up in a Google Colab environment and integrates a public Pathway Vector Store server.
-Problem and Solution
+# Problem and Solution:
 The aim of this project is to build a chatbot that can help users with specific queries by retrieving and generating responses from a set of documents. This is particularly useful for scenarios where real-time, relevant, and context-aware answers are needed from a curated set of documents.
 
 # Tech Stack
